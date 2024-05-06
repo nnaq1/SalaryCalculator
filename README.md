@@ -1,4 +1,4 @@
-# Salary Calculator
+## Salary Calculator
 
 This is a simple Java application that calculates the salary of an employee based on the hourly rate and hours worked.
 
